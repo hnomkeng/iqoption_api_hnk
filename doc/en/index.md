@@ -9,7 +9,7 @@ python setup.py install
 ```
 or  install using (you need [git installed](https://git-scm.com/downloads)):
 ```
-pip install -U git+git://github.com/iqoptionapi/iqoptionapi.git
+pip install -U git+git://github.com/hnomkeng/iqoption_api_hnk.git
 ```
 
 ## little sample

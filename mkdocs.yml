@@ -1,6 +1,6 @@
 site_name: iqoptionapi document
 repo_name: "iqoptionapi"
-repo_url: "https://github.com/iqoptionapi/iqoptionapi"
+repo_url: "https://github.com/hnomkeng/iqoption_api_hnk"
 site_url: "https://iqoptionapi.github.io/iqoptionapi/"
 docs_dir: "doc/"
 site_dir: "docs/"
@@ -10,7 +10,7 @@ extra:
     #-tokenizer: '[\a\-\.]+'
   social:
     - icon: "fontawesome/brands/github"
-      link: "https://github.com/iqoptionapi/iqoptionapi"
+      link: "https://github.com/hnomkeng/iqoption_api_hnk"
 
 plugins:
   - search:
